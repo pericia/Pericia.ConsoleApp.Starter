@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Pericia.ConsoleApp.Starter": {
+      "commandName": "Project",
+      "commandLineArgs": "--environment Development"
+    }
+  }
+}
